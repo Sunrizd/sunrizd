@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 
-![Portfolio](https://img.shields.io/badge/Portfolio-blue)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://sunrizd.net)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunrizd_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-canva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@sunrizd.net) 
 
 # 💻 Tech Stack:
